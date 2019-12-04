@@ -1,1 +1,5 @@
-/* stylesheet */
+#getal{
+
+    display: flex;
+    flex-direction: column;
+}
